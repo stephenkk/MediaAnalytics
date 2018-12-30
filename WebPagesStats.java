@@ -12,7 +12,7 @@ public class WebPagesStats {
 
 	public static void main(String[] args) {
 
-		String fileName = "CBS 20180601 PageViews.txt";
+		String fileName = "CBS 20181223 PageViews.txt";
 		int Visits[] = new int[101];
 		int i = 1;
 		Scanner reader;
