@@ -89,7 +89,7 @@ public class WebPagesStats {
 			// print number of visits per sub-page
 			else {
 				System.out.println("WebPage " + Visits[index] + " was " + "viewed " + j + " times.");
-				j = 1;
+				j = 1; //reset counter to count next sub-page
 			}
 			// print most visited sub-page
 		}
