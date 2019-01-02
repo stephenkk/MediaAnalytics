@@ -3,14 +3,23 @@ The program WebPagesStats.java reads a data file that contains unique visits to 
 per sub-page. The data file contains the indentifying number of each sub-page of the site. Each appearance of the indentifying
 number represents a unique visit to that sub-page. There are 100 entries per file, one per line:
 2
+
 4
+
 7
+
 7
+
 54
+
 62
+
 54
+
 3
+
 54
+
 etc.
 The appearance of the number 2 one time means sub-page 2 was visited once. The appearance of the number 54 three times means
 sub-page 54 was visited three times, and so one.
