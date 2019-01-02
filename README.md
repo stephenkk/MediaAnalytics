@@ -22,6 +22,7 @@ number represents a unique visit to that sub-page. There are 100 entries per fil
 54
 
 etc.
+
 The appearance of the number 2 one time means sub-page 2 was visited once. The appearance of the number 54 three times means
 sub-page 54 was visited three times, and so one.
 
