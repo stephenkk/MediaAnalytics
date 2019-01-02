@@ -34,4 +34,4 @@ The filename is embedded in the program and is assigned to a string variable. Th
 downloaded to the root directory C:\. The format of the file names is COMPANYNAME YYYYMMDD PageViews.txt. The filename in the program
 is CBS 20181223 PageView.txt. To run the Viacom or NBC change the company name in the filename at line 27.
 
-Future versions will read the file from a web site.
+Future versions will read the data from the file from a web site and extract the filename as well.
