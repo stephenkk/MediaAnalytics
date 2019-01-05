@@ -29,8 +29,5 @@ import java.io.*;
 		}
 	}
 
-	private static int parseInt(int read) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	
 }//end
