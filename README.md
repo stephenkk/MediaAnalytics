@@ -30,8 +30,7 @@ The program extracts the name of the company and the date from the filename. It 
 prints the number of times each sub-page was visited and identifies the sub-
 page that received the most visits.
 
-The filename is embedded in the program and is assigned to a string variable. There are 3 data files to test that should be 
-downloaded to the root directory C:\. The format of the file names is COMPANYNAME YYYYMMDD PageViews.txt. The filename in the program
-is CBS 20181223 PageView.txt. To run the Viacom or NBC change the company name in the filename at line 27.
+The name of the file that the program reads is CBS 20181223 PageView.txt. Download that file from this site to your root directory to test th program.
+ 
 
 Future versions will read the data from the file from a web site and extract the filename as well.
