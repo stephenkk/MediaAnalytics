@@ -1,4 +1,4 @@
-//This program will read the contents of a txt file (one integer per line) and print to console.
+
 import java.net.*;
 import java.io.*;
    
@@ -30,8 +30,8 @@ import java.io.*;
 			System.out.println(rawDate.substring(4,6)+"-"+rawDate.substring(6, 8)+ "-"+
 					rawDate.substring(0,4));
 			
-			/*This block of reads each visit to a sub-site into an array,
-			 counts the visits per site and determines which one had the most visits. */
+			/*This block of reads each visit to a sub-page into an array,
+			 counts the visits per sub-page and determines which one had the most visits. */
 			String line="";
 			int[] Visits = new int[100];
 			int most = 0;
