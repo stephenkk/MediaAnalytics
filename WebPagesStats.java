@@ -54,6 +54,8 @@ import java.io.*;
 				}
 				
 				System.out.println("\nSite "+ mostVisited + " was most visited at " + most + " times");
+				in.close();
+				input.close(); //close InputStream and BufferedReader
 			}
 	
 			
