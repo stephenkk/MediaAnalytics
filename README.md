@@ -30,7 +30,4 @@ The program extracts the name of the company and the date from the filename. It 
 prints the number of times each sub-page was visited and identifies the sub-
 page that received the most visits.
 
-The name of the file that the program reads is CBS 20181223 PageView.txt. Download that file from this site to your root directory to test th program.
- 
-
-Future versions will read the data from the file from a web site and extract the filename as well.
+The name of the file that the program reads is CBS 20181223 PageView.txt. The file is read from a URL that is embedded in the code.
